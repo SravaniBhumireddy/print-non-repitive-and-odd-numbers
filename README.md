@@ -1,0 +1,1 @@
+# print-non-repitive-and-odd-numbers
